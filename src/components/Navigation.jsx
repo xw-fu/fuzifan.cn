@@ -20,7 +20,7 @@ const Navigation = () => {
     <nav className="navigation">
       <div className="nav-container">
         <Link to="/" className="logo">
-          <span className="logo-text">Hannan</span>
+          <span className="logo-text">Hannah</span>
           <span className="logo-subtitle">小凡</span>
         </Link>
 

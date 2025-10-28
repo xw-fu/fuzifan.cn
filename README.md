@@ -1,4 +1,4 @@
-# Personal Website for Hannan
+# Personal Website for Hannah
 
 A beautiful, creative personal website built with React, featuring bilingual support (Chinese/English) and artistic design elements.
 

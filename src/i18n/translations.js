@@ -15,7 +15,7 @@ export const translations = {
       },
       about: {
         title: 'About Me',
-        name: 'My name is Hannan',
+        name: 'My name is Hannah',
         intro: "I was born in 2014 in Beijing. I'm a girl and 11 years old. A 5th grade student at Beijing Haidian Qinghe No.4 Elementary School.",
         interests: "I like dancing, Chinese calligraphy, and photography. At school, I'm a class president for 4 years and now I'm a Young Pioneer Brigade Leader.",
         family: "I have a lovely younger sister in my family.",
@@ -54,7 +54,7 @@ export const translations = {
         successMessage: 'Thank you for your message!'
       },
       footer: {
-        copyright: '© 2025 Hannan. All rights reserved.',
+        copyright: '© 2025 Hannah. All rights reserved.',
         madeWith: 'Made with ❤️ in Beijing'
       }
     }
@@ -70,7 +70,7 @@ export const translations = {
       },
       home: {
         welcome: '欢迎来到我的世界',
-        subtitle: '学生 | 舞者 | 书法家 | 摄影师',
+        subtitle: '学生 | 拉丁舞 | 书法 | 摄影',
         learnMore: '更多了解我'
       },
       about: {

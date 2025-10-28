@@ -32,7 +32,7 @@ A beautiful, creative personal website built with React, featuring bilingual sup
 
 1. Clone the repository:
 ```bash
-cd personal-website
+cd fuzifan.cn
 ```
 
 2. Install dependencies:
@@ -68,7 +68,7 @@ npm run preview
 ## Project Structure
 
 ```
-personal-website/
+fuzifan.cn/
 ├── src/
 │   ├── components/         # Reusable components
 │   │   ├── Navigation.jsx  # Navigation bar with language switcher
@@ -154,7 +154,7 @@ npm install --save-dev gh-pages
 
 2. Add to package.json:
 ```json
-"homepage": "https://yourusername.github.io/personal-website",
+"homepage": "https://yourusername.github.io/fuzifan.cn",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d dist"
